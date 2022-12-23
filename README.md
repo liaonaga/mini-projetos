@@ -22,3 +22,5 @@ Objetivo deste repositório é concentrar todos os projetos desenvolvidos durant
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Lia Onaga 👋🏽 [Entre em contato!](https://www.linkedin.com/in/liaonaga/)
+
+Atualizado em 23/12/2022.
